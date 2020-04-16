@@ -19,6 +19,8 @@ O Voyager é um pacote de administração do Laravel que inclui operações BREA
 
 A ideia é usar o sistema de configurações do Voyager para fazer modificações no front-end conforme se o nével de acesso do usuário permitir:
 
+#Em edição...
+
 
 ## License
 
